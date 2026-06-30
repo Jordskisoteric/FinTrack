@@ -1,0 +1,219 @@
+Date,Month,Account,Transaction Type,Category,Subcategory,Merchant / Payee,Description,Payment Method,Amount,Currency,Recurring,Essential,Budgeted Amount,Actual Amount,Status,Tags,Notes
+2026-01-01,2026-01,Checking,Expense,Housing,Rent,Apt Management Portal,Monthly apartment rent,ACH,-1450.00,USD,Yes,Yes,1450,-1450.00,Cleared,housing;fixed,Due on the 1st
+2026-01-01,2026-01,Checking,Income,Income,Paycheck,Employer Payroll,Biweekly direct deposit,ACH,2146.82,USD,Yes,Yes,,2146.82,Cleared,income,Pay period 1
+2026-01-02,2026-01,Checking,Expense,Utilities,Electric,PSE&G,Electric bill autopay,ACH,-104.72,USD,Yes,Yes,110,-104.72,Cleared,utilities,Seasonal usage varies
+2026-01-03,2026-01,Credit Card,Expense,Food,Groceries,Trader Joe's,Groceries run,Credit Card,-47.61,USD,No,Yes,425,-47.61,Cleared,food;variable,
+2026-01-03,2026-01,Credit Card,Expense,Utilities,Internet,Verizon Fios,Home internet 300 Mbps,Credit Card,-59.99,USD,Yes,Yes,60,-59.99,Cleared,utilities;fixed,
+2026-01-04,2026-01,Credit Card,Expense,Food,Dining Out,Starbucks,Coffee purchase,Credit Card,-13.42,USD,No,No,220,-13.42,Cleared,food;discretionary,
+2026-01-04,2026-01,Credit Card,Expense,Subscriptions,Streaming,Netflix,Standard streaming plan,Credit Card,-15.49,USD,Yes,No,16,-15.49,Cleared,subscription,
+2026-01-05,2026-01,Credit Card,Expense,Subscriptions,Music,Spotify,Student music subscription,Credit Card,-5.99,USD,Yes,No,6,-5.99,Cleared,subscription,
+2026-01-06,2026-01,Credit Card,Expense,Phone,Mobile,T-Mobile,Monthly phone bill,Credit Card,-72.00,USD,Yes,Yes,75,-72.00,Cleared,phone;fixed,
+2026-01-06,2026-01,Credit Card,Expense,Transportation,Rideshare,Uber,Rideshare fare,Credit Card,-29.34,USD,No,No,90,-29.34,Cleared,transport,
+2026-01-07,2026-01,Credit Card,Expense,Food,Groceries,Trader Joe's,Groceries run,Credit Card,-76.40,USD,No,Yes,425,-76.40,Cleared,food;variable,
+2026-01-08,2026-01,Checking,Expense,Transportation,Train/Bus,NJ Transit,Train/Bus fare,Debit Card,-8.67,USD,No,No,90,-8.67,Cleared,transport,
+2026-01-08,2026-01,Checking,Transfer,Savings,Emergency Fund,Ally Savings,Automatic transfer to emergency fund,ACH,-250.00,USD,Yes,Yes,250,-250.00,Cleared,savings,Transfer out of checking
+2026-01-08,2026-01,High-Yield Savings,Transfer,Savings,Emergency Fund,Ally Savings,Automatic transfer from checking,ACH,250.00,USD,Yes,Yes,250,250.00,Cleared,savings,Mirror transfer into savings
+2026-01-10,2026-01,Checking,Expense,Debt,Student Loan,Nelnet,Student loan minimum payment,ACH,-185.00,USD,Yes,Yes,185,-185.00,Cleared,debt,Minimum payment
+2026-01-10,2026-01,Credit Card,Expense,Food,Groceries,Trader Joe's,Groceries run,Credit Card,-126.98,USD,No,Yes,425,-126.98,Cleared,food;variable,
+2026-01-12,2026-01,Credit Card,Expense,Education,Books,Rutgers Bookstore,Spring textbook and access code,Credit Card,-187.43,USD,No,Yes,200,-187.43,Cleared,school,Semester expense
+2026-01-12,2026-01,Credit Card,Expense,Shopping,Clothing,H&M,Clothing purchase,Credit Card,-153.97,USD,No,No,180,-153.97,Cleared,shopping,Review for wants vs needs
+2026-01-14,2026-01,Credit Card,Expense,Insurance,Auto Insurance,GEICO,Auto insurance monthly premium,Credit Card,-138.64,USD,Yes,Yes,140,-138.64,Cleared,insurance,
+2026-01-15,2026-01,Checking,Income,Income,Paycheck,Employer Payroll,Biweekly direct deposit,ACH,2146.82,USD,Yes,Yes,,2146.82,Cleared,income,Pay period 2
+2026-01-16,2026-01,Credit Card,Expense,Food,Dining Out,Chipotle,Fast Casual purchase,Credit Card,-14.00,USD,No,No,220,-14.00,Cleared,food;discretionary,
+2026-01-16,2026-01,Credit Card,Expense,Shopping,Online Shopping,Amazon,Online Shopping purchase,Credit Card,-65.63,USD,No,No,180,-65.63,Cleared,shopping,Review for wants vs needs
+2026-01-17,2026-01,Credit Card,Expense,Food,Household,Walmart,Household run,Credit Card,-64.19,USD,No,Yes,425,-64.19,Cleared,food;variable,
+2026-01-18,2026-01,Credit Card,Expense,Food,Dining Out,Starbucks,Coffee purchase,Credit Card,-11.18,USD,No,No,220,-11.18,Cleared,food;discretionary,
+2026-01-20,2026-01,Checking,Expense,Debt,Credit Card Payment,Chase Card Services,Payment to credit card balance,ACH,-590.00,USD,Yes,Yes,,-590.00,Cleared,debt;payment,Payment from checking
+2026-01-21,2026-01,Credit Card,Expense,Food,Dining Out,Sweetgreen,Lunch purchase,Credit Card,-24.01,USD,No,No,220,-24.01,Cleared,food;discretionary,
+2026-01-21,2026-01,Credit Card,Expense,Shopping,Clothing,H&M,Clothing purchase,Credit Card,-55.81,USD,No,No,180,-55.81,Cleared,shopping,Review for wants vs needs
+2026-01-22,2026-01,Checking,Income,Income,Refund,State of NJ Treasury,State tax refund,ACH,314.00,USD,No,No,,314.00,Cleared,tax,
+2026-01-24,2026-01,Credit Card,Expense,Food,Household,Target,Household run,Credit Card,-127.67,USD,No,Yes,425,-127.67,Cleared,food;variable,
+2026-01-24,2026-01,Credit Card,Expense,Shopping,Online Shopping,Amazon,Online Shopping purchase,Credit Card,-20.03,USD,No,No,180,-20.03,Cleared,shopping,Review for wants vs needs
+2026-01-27,2026-01,Credit Card,Expense,Transportation,Fuel,Exxon,Fuel purchase,Credit Card,-60.59,USD,No,Yes,180,-60.59,Cleared,car;transport,
+2026-01-28,2026-01,Credit Card,Expense,Food,Groceries,ShopRite,Groceries run,Credit Card,-45.59,USD,No,Yes,425,-45.59,Cleared,food;variable,
+2026-01-31,2026-01,Credit Card,Expense,Food,Household,Walmart,Household run,Credit Card,-61.25,USD,No,Yes,425,-61.25,Cleared,food;variable,
+2026-02-01,2026-02,Checking,Expense,Housing,Rent,Apt Management Portal,Monthly apartment rent,ACH,-1450.00,USD,Yes,Yes,1450,-1450.00,Cleared,housing;fixed,Due on the 1st
+2026-02-01,2026-02,Checking,Income,Income,Paycheck,Employer Payroll,Biweekly direct deposit,ACH,2146.82,USD,Yes,Yes,,2146.82,Cleared,income,Pay period 1
+2026-02-02,2026-02,Credit Card,Expense,Food,Dining Out,Chipotle,Fast Casual purchase,Credit Card,-16.91,USD,No,No,220,-16.91,Cleared,food;discretionary,
+2026-02-02,2026-02,Checking,Expense,Utilities,Electric,PSE&G,Electric bill autopay,ACH,-113.38,USD,Yes,Yes,110,-113.38,Cleared,utilities,Seasonal usage varies
+2026-02-03,2026-02,Credit Card,Expense,Utilities,Internet,Verizon Fios,Home internet 300 Mbps,Credit Card,-59.99,USD,Yes,Yes,60,-59.99,Cleared,utilities;fixed,
+2026-02-04,2026-02,Credit Card,Expense,Food,Groceries,Trader Joe's,Groceries run,Credit Card,-73.49,USD,No,Yes,425,-73.49,Cleared,food;variable,
+2026-02-04,2026-02,Credit Card,Expense,Subscriptions,Streaming,Netflix,Standard streaming plan,Credit Card,-15.49,USD,Yes,No,16,-15.49,Cleared,subscription,
+2026-02-05,2026-02,Credit Card,Expense,Subscriptions,Music,Spotify,Student music subscription,Credit Card,-5.99,USD,Yes,No,6,-5.99,Cleared,subscription,
+2026-02-06,2026-02,Credit Card,Expense,Phone,Mobile,T-Mobile,Monthly phone bill,Credit Card,-72.00,USD,Yes,Yes,75,-72.00,Cleared,phone;fixed,
+2026-02-07,2026-02,Credit Card,Expense,Food,Groceries,Costco,Bulk Groceries run,Credit Card,-115.13,USD,No,Yes,425,-115.13,Cleared,food;variable,
+2026-02-07,2026-02,Credit Card,Expense,Food,Dining Out,Chipotle,Fast Casual purchase,Credit Card,-16.99,USD,No,No,220,-16.99,Cleared,food;discretionary,
+2026-02-07,2026-02,Credit Card,Expense,Transportation,Fuel,Wawa,Fuel purchase,Credit Card,-41.60,USD,No,Yes,180,-41.60,Cleared,car;transport,
+2026-02-08,2026-02,Checking,Transfer,Savings,Emergency Fund,Ally Savings,Automatic transfer to emergency fund,ACH,-250.00,USD,Yes,Yes,250,-250.00,Cleared,savings,Transfer out of checking
+2026-02-08,2026-02,High-Yield Savings,Transfer,Savings,Emergency Fund,Ally Savings,Automatic transfer from checking,ACH,250.00,USD,Yes,Yes,250,250.00,Cleared,savings,Mirror transfer into savings
+2026-02-09,2026-02,Credit Card,Expense,Auto,Maintenance,Mavis Discount Tire,Oil change and tire rotation,Credit Card,-96.18,USD,No,Yes,120,-96.18,Cleared,car,Routine maintenance
+2026-02-10,2026-02,Checking,Expense,Debt,Student Loan,Nelnet,Student loan minimum payment,ACH,-185.00,USD,Yes,Yes,185,-185.00,Cleared,debt,Minimum payment
+2026-02-11,2026-02,Credit Card,Expense,Food,Groceries,Costco,Bulk Groceries run,Credit Card,-105.57,USD,No,Yes,425,-105.57,Cleared,food;variable,
+2026-02-14,2026-02,Credit Card,Expense,Food,Groceries,ShopRite,Groceries run,Credit Card,-46.45,USD,No,Yes,425,-46.45,Cleared,food;variable,
+2026-02-14,2026-02,Credit Card,Expense,Food,Dining Out,Local Pizza,Takeout purchase,Credit Card,-13.41,USD,No,No,220,-13.41,Cleared,food;discretionary,
+2026-02-14,2026-02,Credit Card,Expense,Gifts,Holiday,Etsy,Valentine gift,Credit Card,-54.60,USD,No,No,60,-54.60,Cleared,gift,
+2026-02-14,2026-02,Credit Card,Expense,Insurance,Auto Insurance,GEICO,Auto insurance monthly premium,Credit Card,-138.64,USD,Yes,Yes,140,-138.64,Cleared,insurance,
+2026-02-14,2026-02,Credit Card,Expense,Shopping,Clothing,Uniqlo,Clothing purchase,Credit Card,-105.81,USD,No,No,180,-105.81,Cleared,shopping,Review for wants vs needs
+2026-02-15,2026-02,Checking,Income,Income,Paycheck,Employer Payroll,Biweekly direct deposit,ACH,2146.82,USD,Yes,Yes,,2146.82,Cleared,income,Pay period 2
+2026-02-17,2026-02,Credit Card,Expense,Food,Dining Out,Local Pizza,Takeout purchase,Credit Card,-16.30,USD,No,No,220,-16.30,Cleared,food;discretionary,
+2026-02-18,2026-02,Credit Card,Expense,Food,Household,Target,Household run,Credit Card,-46.82,USD,No,Yes,425,-46.82,Cleared,food;variable,
+2026-02-18,2026-02,Credit Card,Expense,Transportation,Fuel,Wawa,Fuel purchase,Credit Card,-45.92,USD,No,Yes,180,-45.92,Cleared,car;transport,
+2026-02-20,2026-02,Checking,Expense,Debt,Credit Card Payment,Chase Card Services,Payment to credit card balance,ACH,-680.00,USD,Yes,Yes,,-680.00,Cleared,debt;payment,Payment from checking
+2026-02-21,2026-02,Credit Card,Expense,Food,Household,Walmart,Household run,Credit Card,-65.94,USD,No,Yes,425,-65.94,Cleared,food;variable,
+2026-02-22,2026-02,Credit Card,Expense,Food,Dining Out,Starbucks,Coffee purchase,Credit Card,-20.21,USD,No,No,220,-20.21,Cleared,food;discretionary,
+2026-02-22,2026-02,Credit Card,Expense,Shopping,Electronics,Best Buy,Electronics purchase,Credit Card,-104.26,USD,No,No,180,-104.26,Cleared,shopping,Review for wants vs needs
+2026-02-22,2026-02,Credit Card,Expense,Transportation,Rideshare,Lyft,Rideshare fare,Credit Card,-19.99,USD,No,No,90,-19.99,Cleared,transport,
+2026-02-23,2026-02,Credit Card,Expense,Transportation,Rideshare,Uber,Rideshare fare,Credit Card,-6.27,USD,No,No,90,-6.27,Cleared,transport,
+2026-02-25,2026-02,Credit Card,Expense,Food,Groceries,ShopRite,Groceries run,Credit Card,-91.35,USD,No,Yes,425,-91.35,Cleared,food;variable,
+2026-02-26,2026-02,Credit Card,Expense,Food,Dining Out,Sweetgreen,Lunch purchase,Credit Card,-9.51,USD,No,No,220,-9.51,Cleared,food;discretionary,
+2026-02-27,2026-02,Credit Card,Expense,Transportation,Fuel,Shell,Fuel purchase,Credit Card,-52.75,USD,No,Yes,180,-52.75,Cleared,car;transport,
+2026-02-28,2026-02,Credit Card,Expense,Food,Household,Walmart,Household run,Credit Card,-51.60,USD,No,Yes,425,-51.60,Cleared,food;variable,
+2026-03-01,2026-03,Checking,Expense,Housing,Rent,Apt Management Portal,Monthly apartment rent,ACH,-1450.00,USD,Yes,Yes,1450,-1450.00,Cleared,housing;fixed,Due on the 1st
+2026-03-01,2026-03,Checking,Income,Income,Paycheck,Employer Payroll,Biweekly direct deposit,ACH,2146.82,USD,Yes,Yes,,2146.82,Cleared,income,Pay period 1
+2026-03-02,2026-03,Checking,Expense,Utilities,Electric,PSE&G,Electric bill autopay,ACH,-78.95,USD,Yes,Yes,110,-78.95,Cleared,utilities,Seasonal usage varies
+2026-03-03,2026-03,Credit Card,Expense,Utilities,Internet,Verizon Fios,Home internet 300 Mbps,Credit Card,-59.99,USD,Yes,Yes,60,-59.99,Cleared,utilities;fixed,
+2026-03-03,2026-03,Checking,Income,Income,Side Hustle,Freelance Client,Logo design deposit,Zelle,450.00,USD,No,No,,450.00,Cleared,side-hustle,Client paid 50% upfront
+2026-03-04,2026-03,Credit Card,Expense,Food,Household,Target,Household run,Credit Card,-34.13,USD,No,Yes,425,-34.13,Cleared,food;variable,
+2026-03-04,2026-03,Credit Card,Expense,Subscriptions,Streaming,Netflix,Standard streaming plan,Credit Card,-15.49,USD,Yes,No,16,-15.49,Cleared,subscription,
+2026-03-05,2026-03,Credit Card,Expense,Food,Dining Out,Starbucks,Coffee purchase,Credit Card,-30.86,USD,No,No,220,-30.86,Cleared,food;discretionary,
+2026-03-05,2026-03,Credit Card,Expense,Subscriptions,Music,Spotify,Student music subscription,Credit Card,-5.99,USD,Yes,No,6,-5.99,Cleared,subscription,
+2026-03-06,2026-03,Credit Card,Expense,Phone,Mobile,T-Mobile,Monthly phone bill,Credit Card,-72.00,USD,Yes,Yes,75,-72.00,Cleared,phone;fixed,
+2026-03-07,2026-03,Credit Card,Expense,Food,Household,Target,Household run,Credit Card,-104.39,USD,No,Yes,425,-104.39,Cleared,food;variable,
+2026-03-07,2026-03,Credit Card,Expense,Transportation,Rideshare,Uber,Rideshare fare,Credit Card,-23.72,USD,No,No,90,-23.72,Cleared,transport,
+2026-03-08,2026-03,Checking,Transfer,Savings,Emergency Fund,Ally Savings,Automatic transfer to emergency fund,ACH,-250.00,USD,Yes,Yes,250,-250.00,Cleared,savings,Transfer out of checking
+2026-03-08,2026-03,High-Yield Savings,Transfer,Savings,Emergency Fund,Ally Savings,Automatic transfer from checking,ACH,250.00,USD,Yes,Yes,250,250.00,Cleared,savings,Mirror transfer into savings
+2026-03-10,2026-03,Checking,Expense,Debt,Student Loan,Nelnet,Student loan minimum payment,ACH,-185.00,USD,Yes,Yes,185,-185.00,Cleared,debt,Minimum payment
+2026-03-11,2026-03,Credit Card,Expense,Food,Dining Out,Sweetgreen,Lunch purchase,Credit Card,-23.88,USD,No,No,220,-23.88,Cleared,food;discretionary,
+2026-03-11,2026-03,Credit Card,Expense,Shopping,Clothing,Uniqlo,Clothing purchase,Credit Card,-105.22,USD,No,No,180,-105.22,Cleared,shopping,Review for wants vs needs
+2026-03-12,2026-03,Credit Card,Expense,Food,Dining Out,Panera Bread,Fast Casual purchase,Credit Card,-14.34,USD,No,No,220,-14.34,Cleared,food;discretionary,
+2026-03-13,2026-03,Credit Card,Expense,Food,Dining Out,Chipotle,Fast Casual purchase,Credit Card,-26.92,USD,No,No,220,-26.92,Cleared,food;discretionary,
+2026-03-14,2026-03,Credit Card,Expense,Food,Groceries,Trader Joe's,Groceries run,Credit Card,-37.80,USD,No,Yes,425,-37.80,Cleared,food;variable,
+2026-03-14,2026-03,Credit Card,Expense,Food,Dining Out,Local Pizza,Takeout purchase,Credit Card,-8.64,USD,No,No,220,-8.64,Cleared,food;discretionary,
+2026-03-14,2026-03,Credit Card,Expense,Insurance,Auto Insurance,GEICO,Auto insurance monthly premium,Credit Card,-138.64,USD,Yes,Yes,140,-138.64,Cleared,insurance,
+2026-03-15,2026-03,Credit Card,Expense,Food,Dining Out,Panera Bread,Fast Casual purchase,Credit Card,-28.79,USD,No,No,220,-28.79,Cleared,food;discretionary,
+2026-03-15,2026-03,Checking,Income,Income,Paycheck,Employer Payroll,Biweekly direct deposit,ACH,2146.82,USD,Yes,Yes,,2146.82,Cleared,income,Pay period 2
+2026-03-17,2026-03,Credit Card,Expense,Food,Dining Out,Panera Bread,Fast Casual purchase,Credit Card,-9.67,USD,No,No,220,-9.67,Cleared,food;discretionary,
+2026-03-17,2026-03,Checking,Expense,Transportation,Train/Bus,NJ Transit,Train/Bus fare,Debit Card,-28.23,USD,No,No,90,-28.23,Cleared,transport,
+2026-03-17,2026-03,Credit Card,Expense,Travel,Flight,United Airlines,Roundtrip flight for weekend trip,Credit Card,-286.70,USD,No,No,300,-286.70,Cleared,travel,
+2026-03-18,2026-03,Credit Card,Expense,Transportation,Fuel,Exxon,Fuel purchase,Credit Card,-36.23,USD,No,Yes,180,-36.23,Cleared,car;transport,
+2026-03-19,2026-03,Credit Card,Expense,Food,Dining Out,Local Pizza,Takeout purchase,Credit Card,-13.11,USD,No,No,220,-13.11,Cleared,food;discretionary,
+2026-03-19,2026-03,Credit Card,Expense,Shopping,Online Shopping,Amazon,Online Shopping purchase,Credit Card,-39.93,USD,No,No,180,-39.93,Cleared,shopping,Review for wants vs needs
+2026-03-20,2026-03,Checking,Expense,Debt,Credit Card Payment,Chase Card Services,Payment to credit card balance,ACH,-835.00,USD,Yes,Yes,,-835.00,Cleared,debt;payment,Payment from checking
+2026-03-20,2026-03,Credit Card,Expense,Food,Dining Out,Panera Bread,Fast Casual purchase,Credit Card,-23.43,USD,No,No,220,-23.43,Cleared,food;discretionary,
+2026-03-21,2026-03,Credit Card,Expense,Food,Groceries,ShopRite,Groceries run,Credit Card,-72.38,USD,No,Yes,425,-72.38,Cleared,food;variable,
+2026-03-21,2026-03,Credit Card,Expense,Health,Pharmacy,CVS Pharmacy,Pharmacy expense,Credit Card,-28.15,USD,No,Yes,75,-28.15,Cleared,health,
+2026-03-21,2026-03,Credit Card,Expense,Transportation,Rideshare,Lyft,Rideshare fare,Credit Card,-13.37,USD,No,No,90,-13.37,Cleared,transport,
+2026-03-22,2026-03,Credit Card,Expense,Food,Dining Out,Sweetgreen,Lunch purchase,Credit Card,-22.57,USD,No,No,220,-22.57,Cleared,food;discretionary,
+2026-03-23,2026-03,Credit Card,Expense,Food,Dining Out,Chipotle,Fast Casual purchase,Credit Card,-14.56,USD,No,No,220,-14.56,Cleared,food;discretionary,
+2026-03-24,2026-03,Credit Card,Expense,Travel,Hotel,Marriott,Two-night hotel stay,Credit Card,-412.35,USD,No,No,450,-412.35,Cleared,travel,
+2026-03-25,2026-03,Credit Card,Expense,Food,Household,Walmart,Household run,Credit Card,-94.85,USD,No,Yes,425,-94.85,Cleared,food;variable,
+2026-03-27,2026-03,Credit Card,Expense,Transportation,Fuel,Shell,Fuel purchase,Credit Card,-42.51,USD,No,Yes,180,-42.51,Cleared,car;transport,
+2026-03-28,2026-03,Credit Card,Expense,Food,Groceries,ShopRite,Groceries run,Credit Card,-50.90,USD,No,Yes,425,-50.90,Cleared,food;variable,
+2026-04-01,2026-04,Checking,Expense,Housing,Rent,Apt Management Portal,Monthly apartment rent,ACH,-1450.00,USD,Yes,Yes,1450,-1450.00,Cleared,housing;fixed,Due on the 1st
+2026-04-01,2026-04,Checking,Income,Income,Paycheck,Employer Payroll,Biweekly direct deposit,ACH,2146.82,USD,Yes,Yes,,2146.82,Cleared,income,Pay period 1
+2026-04-02,2026-04,Checking,Expense,Utilities,Electric,PSE&G,Electric bill autopay,ACH,-104.72,USD,Yes,Yes,110,-104.72,Cleared,utilities,Seasonal usage varies
+2026-04-03,2026-04,Credit Card,Expense,Utilities,Internet,Verizon Fios,Home internet 300 Mbps,Credit Card,-59.99,USD,Yes,Yes,60,-59.99,Cleared,utilities;fixed,
+2026-04-04,2026-04,Credit Card,Expense,Food,Groceries,Trader Joe's,Groceries run,Credit Card,-43.77,USD,No,Yes,425,-43.77,Cleared,food;variable,
+2026-04-04,2026-04,Credit Card,Expense,Shopping,Online Shopping,Amazon,Online Shopping purchase,Credit Card,-153.27,USD,No,No,180,-153.27,Cleared,shopping,Review for wants vs needs
+2026-04-04,2026-04,Credit Card,Expense,Subscriptions,Streaming,Netflix,Standard streaming plan,Credit Card,-15.49,USD,Yes,No,16,-15.49,Cleared,subscription,
+2026-04-04,2026-04,Credit Card,Expense,Transportation,Rideshare,Lyft,Rideshare fare,Credit Card,-27.24,USD,No,No,90,-27.24,Cleared,transport,
+2026-04-05,2026-04,Credit Card,Expense,Subscriptions,Music,Spotify,Student music subscription,Credit Card,-5.99,USD,Yes,No,6,-5.99,Cleared,subscription,
+2026-04-05,2026-04,Checking,Income,Income,Side Hustle,Freelance Client,Logo design final payment,Zelle,450.00,USD,No,No,,450.00,Cleared,side-hustle,Final invoice paid
+2026-04-06,2026-04,Credit Card,Expense,Phone,Mobile,T-Mobile,Monthly phone bill,Credit Card,-72.00,USD,Yes,Yes,75,-72.00,Cleared,phone;fixed,
+2026-04-07,2026-04,Credit Card,Expense,Food,Dining Out,Local Pizza,Takeout purchase,Credit Card,-32.04,USD,No,No,220,-32.04,Cleared,food;discretionary,
+2026-04-07,2026-04,Credit Card,Expense,Transportation,Fuel,Shell,Fuel purchase,Credit Card,-38.74,USD,No,Yes,180,-38.74,Cleared,car;transport,
+2026-04-08,2026-04,Checking,Transfer,Savings,Emergency Fund,Ally Savings,Automatic transfer to emergency fund,ACH,-250.00,USD,Yes,Yes,250,-250.00,Cleared,savings,Transfer out of checking
+2026-04-08,2026-04,High-Yield Savings,Transfer,Savings,Emergency Fund,Ally Savings,Automatic transfer from checking,ACH,250.00,USD,Yes,Yes,250,250.00,Cleared,savings,Mirror transfer into savings
+2026-04-09,2026-04,Credit Card,Expense,Food,Dining Out,Sweetgreen,Lunch purchase,Credit Card,-10.15,USD,No,No,220,-10.15,Cleared,food;discretionary,
+2026-04-10,2026-04,Checking,Expense,Debt,Student Loan,Nelnet,Student loan minimum payment,ACH,-185.00,USD,Yes,Yes,185,-185.00,Cleared,debt,Minimum payment
+2026-04-11,2026-04,Credit Card,Expense,Food,Household,Target,Household run,Credit Card,-111.10,USD,No,Yes,425,-111.10,Cleared,food;variable,
+2026-04-13,2026-04,Credit Card,Expense,Shopping,Electronics,Best Buy,Electronics purchase,Credit Card,-69.77,USD,No,No,180,-69.77,Cleared,shopping,Review for wants vs needs
+2026-04-14,2026-04,Credit Card,Expense,Insurance,Auto Insurance,GEICO,Auto insurance monthly premium,Credit Card,-138.64,USD,Yes,Yes,140,-138.64,Cleared,insurance,
+2026-04-15,2026-04,Credit Card,Expense,Fitness,Gym,Planet Fitness,Gym expense,Credit Card,-38.77,USD,No,No,75,-38.77,Cleared,fitness,
+2026-04-15,2026-04,Checking,Income,Income,Paycheck,Employer Payroll,Biweekly direct deposit,ACH,2146.82,USD,Yes,Yes,,2146.82,Cleared,income,Pay period 2
+2026-04-16,2026-04,Credit Card,Expense,Food,Dining Out,Starbucks,Coffee purchase,Credit Card,-21.77,USD,No,No,220,-21.77,Cleared,food;discretionary,
+2026-04-16,2026-04,Credit Card,Expense,Medical,Doctor Visit,Urgent Care,Copay for visit,Credit Card,-45.00,USD,No,Yes,80,-45.00,Cleared,medical,
+2026-04-18,2026-04,Credit Card,Expense,Food,Groceries,ShopRite,Groceries run,Credit Card,-72.51,USD,No,Yes,425,-72.51,Cleared,food;variable,
+2026-04-20,2026-04,Checking,Expense,Debt,Credit Card Payment,Chase Card Services,Payment to credit card balance,ACH,-760.00,USD,Yes,Yes,,-760.00,Cleared,debt;payment,Payment from checking
+2026-04-23,2026-04,Credit Card,Expense,Fitness,Gym,Planet Fitness,Gym expense,Credit Card,-28.23,USD,No,No,75,-28.23,Cleared,fitness,
+2026-04-25,2026-04,Credit Card,Expense,Food,Groceries,ShopRite,Groceries run,Credit Card,-81.28,USD,No,Yes,425,-81.28,Cleared,food;variable,
+2026-04-25,2026-04,Credit Card,Expense,Food,Dining Out,Starbucks,Coffee purchase,Credit Card,-30.77,USD,No,No,220,-30.77,Cleared,food;discretionary,
+2026-04-25,2026-04,Checking,Expense,Transportation,Train/Bus,NJ Transit,Train/Bus fare,Debit Card,-13.62,USD,No,No,90,-13.62,Cleared,transport,
+2026-04-26,2026-04,Credit Card,Expense,Transportation,Rideshare,Uber,Rideshare fare,Credit Card,-5.46,USD,No,No,90,-5.46,Cleared,transport,
+2026-04-27,2026-04,Credit Card,Expense,Health,Pharmacy,Walgreens,Pharmacy expense,Credit Card,-32.82,USD,No,Yes,75,-32.82,Cleared,health,
+2026-04-28,2026-04,Credit Card,Expense,Food,Dining Out,Local Pizza,Takeout purchase,Credit Card,-32.54,USD,No,No,220,-32.54,Cleared,food;discretionary,
+2026-04-29,2026-04,Credit Card,Expense,Food,Household,Walmart,Household run,Credit Card,-62.97,USD,No,Yes,425,-62.97,Cleared,food;variable,
+2026-04-29,2026-04,Credit Card,Expense,Transportation,Rideshare,Lyft,Rideshare fare,Credit Card,-36.73,USD,No,No,90,-36.73,Cleared,transport,
+2026-05-01,2026-05,Credit Card,Expense,Food,Dining Out,Panera Bread,Fast Casual purchase,Credit Card,-21.56,USD,No,No,220,-21.56,Cleared,food;discretionary,
+2026-05-01,2026-05,Checking,Expense,Housing,Rent,Apt Management Portal,Monthly apartment rent,ACH,-1450.00,USD,Yes,Yes,1450,-1450.00,Cleared,housing;fixed,Due on the 1st
+2026-05-01,2026-05,Checking,Income,Income,Paycheck,Employer Payroll,Biweekly direct deposit,ACH,2146.82,USD,Yes,Yes,,2146.82,Cleared,income,Pay period 1
+2026-05-02,2026-05,Credit Card,Expense,Food,Groceries,Costco,Bulk Groceries run,Credit Card,-68.01,USD,No,Yes,425,-68.01,Cleared,food;variable,
+2026-05-02,2026-05,Credit Card,Expense,Home,Furniture,Wayfair,Desk chair upgrade,Credit Card,-169.99,USD,No,No,180,-169.99,Cleared,home-office,
+2026-05-02,2026-05,Checking,Expense,Utilities,Electric,PSE&G,Electric bill autopay,ACH,-78.95,USD,Yes,Yes,110,-78.95,Cleared,utilities,Seasonal usage varies
+2026-05-03,2026-05,Credit Card,Expense,Utilities,Internet,Verizon Fios,Home internet 300 Mbps,Credit Card,-59.99,USD,Yes,Yes,60,-59.99,Cleared,utilities;fixed,
+2026-05-04,2026-05,Credit Card,Expense,Subscriptions,Streaming,Netflix,Standard streaming plan,Credit Card,-15.49,USD,Yes,No,16,-15.49,Cleared,subscription,
+2026-05-04,2026-05,Credit Card,Expense,Transportation,Rideshare,Uber,Rideshare fare,Credit Card,-19.57,USD,No,No,90,-19.57,Cleared,transport,
+2026-05-05,2026-05,Credit Card,Expense,Subscriptions,Music,Spotify,Student music subscription,Credit Card,-5.99,USD,Yes,No,6,-5.99,Cleared,subscription,
+2026-05-06,2026-05,Credit Card,Expense,Phone,Mobile,T-Mobile,Monthly phone bill,Credit Card,-72.00,USD,Yes,Yes,75,-72.00,Cleared,phone;fixed,
+2026-05-07,2026-05,Credit Card,Expense,Transportation,Fuel,Shell,Fuel purchase,Credit Card,-46.38,USD,No,Yes,180,-46.38,Cleared,car;transport,
+2026-05-08,2026-05,Checking,Transfer,Savings,Emergency Fund,Ally Savings,Automatic transfer to emergency fund,ACH,-250.00,USD,Yes,Yes,250,-250.00,Cleared,savings,Transfer out of checking
+2026-05-08,2026-05,High-Yield Savings,Transfer,Savings,Emergency Fund,Ally Savings,Automatic transfer from checking,ACH,250.00,USD,Yes,Yes,250,250.00,Cleared,savings,Mirror transfer into savings
+2026-05-09,2026-05,Credit Card,Expense,Food,Household,Target,Household run,Credit Card,-89.58,USD,No,Yes,425,-89.58,Cleared,food;variable,
+2026-05-09,2026-05,Credit Card,Expense,Food,Dining Out,Panera Bread,Fast Casual purchase,Credit Card,-11.78,USD,No,No,220,-11.78,Cleared,food;discretionary,
+2026-05-10,2026-05,Checking,Expense,Debt,Student Loan,Nelnet,Student loan minimum payment,ACH,-185.00,USD,Yes,Yes,185,-185.00,Cleared,debt,Minimum payment
+2026-05-11,2026-05,Credit Card,Expense,Food,Dining Out,Local Pizza,Takeout purchase,Credit Card,-17.31,USD,No,No,220,-17.31,Cleared,food;discretionary,
+2026-05-14,2026-05,Credit Card,Expense,Insurance,Auto Insurance,GEICO,Auto insurance monthly premium,Credit Card,-138.64,USD,Yes,Yes,140,-138.64,Cleared,insurance,
+2026-05-15,2026-05,Checking,Income,Income,Paycheck,Employer Payroll,Biweekly direct deposit,ACH,2146.82,USD,Yes,Yes,,2146.82,Cleared,income,Pay period 2
+2026-05-16,2026-05,Credit Card,Expense,Food,Household,Walmart,Household run,Credit Card,-93.20,USD,No,Yes,425,-93.20,Cleared,food;variable,
+2026-05-17,2026-05,Credit Card,Expense,Transportation,Rideshare,Lyft,Rideshare fare,Credit Card,-17.93,USD,No,No,90,-17.93,Cleared,transport,
+2026-05-19,2026-05,Credit Card,Expense,Auto,Registration,NJ MVC,Vehicle registration renewal,Credit Card,-71.50,USD,No,Yes,75,-71.50,Cleared,car;annual,Annual fee
+2026-05-20,2026-05,Checking,Expense,Debt,Credit Card Payment,Chase Card Services,Payment to credit card balance,ACH,-835.00,USD,Yes,Yes,,-835.00,Cleared,debt;payment,Payment from checking
+2026-05-21,2026-05,Credit Card,Expense,Food,Dining Out,Starbucks,Coffee purchase,Credit Card,-12.21,USD,No,No,220,-12.21,Cleared,food;discretionary,
+2026-05-21,2026-05,Credit Card,Expense,Shopping,Clothing,H&M,Clothing purchase,Credit Card,-126.30,USD,No,No,180,-126.30,Cleared,shopping,Review for wants vs needs
+2026-05-23,2026-05,Credit Card,Expense,Fitness,Gym,Planet Fitness,Gym expense,Credit Card,-52.77,USD,No,No,75,-52.77,Cleared,fitness,
+2026-05-23,2026-05,Credit Card,Expense,Food,Groceries,Costco,Bulk Groceries run,Credit Card,-110.69,USD,No,Yes,425,-110.69,Cleared,food;variable,
+2026-05-24,2026-05,Credit Card,Expense,Food,Dining Out,Sweetgreen,Lunch purchase,Credit Card,-11.65,USD,No,No,220,-11.65,Cleared,food;discretionary,
+2026-05-26,2026-05,Credit Card,Expense,Food,Dining Out,Sweetgreen,Lunch purchase,Credit Card,-8.21,USD,No,No,220,-8.21,Cleared,food;discretionary,
+2026-05-27,2026-05,Credit Card,Expense,Food,Household,Walmart,Household run,Credit Card,-99.79,USD,No,Yes,425,-99.79,Cleared,food;variable,
+2026-05-27,2026-05,Credit Card,Expense,Food,Dining Out,Starbucks,Coffee purchase,Credit Card,-27.45,USD,No,No,220,-27.45,Cleared,food;discretionary,
+2026-05-27,2026-05,Credit Card,Expense,Transportation,Fuel,Wawa,Fuel purchase,Credit Card,-41.22,USD,No,Yes,180,-41.22,Cleared,car;transport,
+2026-05-28,2026-05,Credit Card,Expense,Food,Dining Out,Local Pizza,Takeout purchase,Credit Card,-7.59,USD,No,No,220,-7.59,Cleared,food;discretionary,
+2026-05-30,2026-05,Credit Card,Expense,Food,Household,Target,Household run,Credit Card,-47.61,USD,No,Yes,425,-47.61,Cleared,food;variable,
+2026-06-01,2026-06,Checking,Expense,Housing,Rent,Apt Management Portal,Monthly apartment rent,ACH,-1450.00,USD,Yes,Yes,1450,-1450.00,Cleared,housing;fixed,Due on the 1st
+2026-06-01,2026-06,Checking,Income,Income,Paycheck,Employer Payroll,Biweekly direct deposit,ACH,2146.82,USD,Yes,Yes,,2146.82,Cleared,income,Pay period 1
+2026-06-02,2026-06,Checking,Expense,Utilities,Electric,PSE&G,Electric bill autopay,ACH,-86.43,USD,Yes,Yes,110,-86.43,Cleared,utilities,Seasonal usage varies
+2026-06-03,2026-06,Credit Card,Expense,Food,Household,Target,Household run,Credit Card,-63.08,USD,No,Yes,425,-63.08,Cleared,food;variable,
+2026-06-03,2026-06,Credit Card,Expense,Utilities,Internet,Verizon Fios,Home internet 300 Mbps,Credit Card,-59.99,USD,Yes,Yes,60,-59.99,Cleared,utilities;fixed,
+2026-06-04,2026-06,Credit Card,Expense,Subscriptions,Streaming,Netflix,Standard streaming plan,Credit Card,-15.49,USD,Yes,No,16,-15.49,Cleared,subscription,
+2026-06-05,2026-06,Credit Card,Expense,Food,Dining Out,Panera Bread,Fast Casual purchase,Credit Card,-12.07,USD,No,No,220,-12.07,Cleared,food;discretionary,
+2026-06-05,2026-06,Credit Card,Expense,Subscriptions,Music,Spotify,Student music subscription,Credit Card,-5.99,USD,Yes,No,6,-5.99,Cleared,subscription,
+2026-06-06,2026-06,Credit Card,Expense,Food,Groceries,ShopRite,Groceries run,Credit Card,-34.20,USD,No,Yes,425,-34.20,Cleared,food;variable,
+2026-06-06,2026-06,Credit Card,Expense,Phone,Mobile,T-Mobile,Monthly phone bill,Credit Card,-72.00,USD,Yes,Yes,75,-72.00,Cleared,phone;fixed,
+2026-06-06,2026-06,Checking,Income,Income,Cashback,Chase Rewards,Credit card cashback redemption,ACH,62.38,USD,No,No,,62.38,Cleared,rewards,Applied as cash transfer
+2026-06-07,2026-06,Credit Card,Expense,Shopping,Clothing,H&M,Clothing purchase,Credit Card,-92.87,USD,No,No,180,-92.87,Cleared,shopping,Review for wants vs needs
+2026-06-08,2026-06,Credit Card,Expense,Fitness,Gym,Planet Fitness,Gym expense,Credit Card,-48.62,USD,No,No,75,-48.62,Cleared,fitness,
+2026-06-08,2026-06,Checking,Transfer,Savings,Emergency Fund,Ally Savings,Automatic transfer to emergency fund,ACH,-250.00,USD,Yes,Yes,250,-250.00,Cleared,savings,Transfer out of checking
+2026-06-08,2026-06,High-Yield Savings,Transfer,Savings,Emergency Fund,Ally Savings,Automatic transfer from checking,ACH,250.00,USD,Yes,Yes,250,250.00,Cleared,savings,Mirror transfer into savings
+2026-06-10,2026-06,Checking,Expense,Debt,Student Loan,Nelnet,Student loan minimum payment,ACH,-185.00,USD,Yes,Yes,185,-185.00,Cleared,debt,Minimum payment
+2026-06-10,2026-06,Credit Card,Expense,Food,Dining Out,Chipotle,Fast Casual purchase,Credit Card,-12.02,USD,No,No,220,-12.02,Cleared,food;discretionary,
+2026-06-11,2026-06,Credit Card,Expense,Transportation,Rideshare,Lyft,Rideshare fare,Credit Card,-32.84,USD,No,No,90,-32.84,Cleared,transport,
+2026-06-12,2026-06,Credit Card,Expense,Food,Dining Out,Local Pizza,Takeout purchase,Credit Card,-19.09,USD,No,No,220,-19.09,Cleared,food;discretionary,
+2026-06-13,2026-06,Credit Card,Expense,Food,Groceries,ShopRite,Groceries run,Credit Card,-39.54,USD,No,Yes,425,-39.54,Cleared,food;variable,
+2026-06-14,2026-06,Credit Card,Expense,Insurance,Auto Insurance,GEICO,Auto insurance monthly premium,Credit Card,-138.64,USD,Yes,Yes,140,-138.64,Cleared,insurance,
+2026-06-15,2026-06,Checking,Income,Income,Paycheck,Employer Payroll,Biweekly direct deposit,ACH,2146.82,USD,Yes,Yes,,2146.82,Cleared,income,Pay period 2
+2026-06-17,2026-06,Credit Card,Expense,Food,Household,Walmart,Household run,Credit Card,-123.21,USD,No,Yes,425,-123.21,Cleared,food;variable,
+2026-06-17,2026-06,Credit Card,Expense,Shopping,Online Shopping,Amazon,Online Shopping purchase,Credit Card,-95.54,USD,No,No,180,-95.54,Cleared,shopping,Review for wants vs needs
+2026-06-18,2026-06,Credit Card,Expense,Entertainment,Concert,Ticketmaster,Concert ticket,Credit Card,-118.40,USD,No,No,125,-118.40,Cleared,entertainment,
+2026-06-18,2026-06,Credit Card,Expense,Transportation,Fuel,Exxon,Fuel purchase,Credit Card,-45.08,USD,No,Yes,180,-45.08,Cleared,car;transport,
+2026-06-19,2026-06,Credit Card,Expense,Food,Dining Out,Starbucks,Coffee purchase,Credit Card,-29.70,USD,No,No,220,-29.70,Cleared,food;discretionary,
+2026-06-19,2026-06,Credit Card,Expense,Shopping,Electronics,Best Buy,Electronics purchase,Credit Card,-66.75,USD,No,No,180,-66.75,Cleared,shopping,Review for wants vs needs
+2026-06-20,2026-06,Checking,Expense,Debt,Credit Card Payment,Chase Card Services,Payment to credit card balance,ACH,-760.00,USD,Yes,Yes,,-760.00,Cleared,debt;payment,Payment from checking
+2026-06-20,2026-06,Credit Card,Expense,Food,Groceries,Costco,Bulk Groceries run,Credit Card,-99.04,USD,No,Yes,425,-99.04,Cleared,food;variable,
+2026-06-21,2026-06,Credit Card,Expense,Food,Dining Out,Local Pizza,Takeout purchase,Credit Card,-15.19,USD,No,No,220,-15.19,Cleared,food;discretionary,
+2026-06-23,2026-06,Credit Card,Expense,Food,Dining Out,Starbucks,Coffee purchase,Credit Card,-24.34,USD,No,No,220,-24.34,Cleared,food;discretionary,
+2026-06-24,2026-06,Credit Card,Expense,Food,Household,Target,Household run,Credit Card,-46.89,USD,No,Yes,425,-46.89,Cleared,food;variable,
+2026-06-25,2026-06,Credit Card,Expense,Education,Software,Adobe,Creative Cloud student plan,Credit Card,-19.99,USD,Yes,No,20,-19.99,Pending,subscription;school,Annual student plan monthly billing
+2026-06-25,2026-06,Credit Card,Expense,Food,Dining Out,Sweetgreen,Lunch purchase,Credit Card,-7.02,USD,No,No,220,-7.02,Cleared,food;discretionary,
+2026-06-27,2026-06,Credit Card,Expense,Food,Household,Walmart,Household run,Credit Card,-101.51,USD,No,Yes,425,-101.51,Cleared,food;variable,
+2026-06-27,2026-06,Credit Card,Expense,Food,Dining Out,Panera Bread,Fast Casual purchase,Credit Card,-29.23,USD,No,No,220,-29.23,Cleared,food;discretionary,
+2026-06-27,2026-06,Credit Card,Expense,Transportation,Fuel,Wawa,Fuel purchase,Credit Card,-42.81,USD,No,Yes,180,-42.81,Cleared,car;transport,
